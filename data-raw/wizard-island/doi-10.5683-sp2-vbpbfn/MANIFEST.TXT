@@ -1,0 +1,7 @@
+Data/BMSC_Wizard_InvertebrateDensity_SmallQuadrat_2001-2009.csv (text/csv) 159005 bytes.
+Documentation/BMSC_Wizard_MSAccessInstructions_2009.pdf (application/pdf) 1108198 bytes.
+Data/BMSC_Wizard_IntertidalSamplingDatabase_1997-2009.mdb (application/x-msaccess) 6615040 bytes.
+Data/BMSC_Wizard_InvertebrateCover_1997-2009.csv (text/csv) 82221 bytes.
+Data/BMSC_Wizard_SeastarDensity_LargeQuadrat_2001-2009.csv (text/csv) 54706 bytes.
+Data/BMSC_Wizard_AlgalCover_1997-2009.csv (text/csv) 117897 bytes.
+Documentation/BMSC_Wizard_SampleDataSheets_2009.pdf (application/pdf) 1193982 bytes.
