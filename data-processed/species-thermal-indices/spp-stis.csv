@@ -1,0 +1,34 @@
+survey_name,valid_name,valid_AphiaID,mean_sst,max_sst,min_sst,q95_sst,q05_sst,q50_sst
+Ahnfeltia fastigiata,Ahnfeltia fastigiata,372235,11.510294117647058,28.87,6.54,21.33250000000003,6.57,11.1
+Alaria marginata,Alaria marginata,371791,13.706636470101957,23.38,6.21,15.94,11.51,13.27
+Analipus japonicus,Analipus japonicus,371891,10.493586956521739,23.38,6.54,17.94,6.69,8.17
+Anthopleura elegantissima,Anthopleura elegantissima,283347,14.078235294117647,27.11,6.64,17.26,9.916,13.33
+Anthopleura xanthogrammica,Anthopleura xanthogrammica,283377,13.230657911845013,18.29,8.2,15.28,11.45,12.87
+Balanus crenatus,Balanus crenatus,106215,10.600045808761584,27.77,-1.4,12.78,4.84,11.29
+Balanus glandula,Balanus glandula,394848,11.496952965235174,19.85,-1.61,15.94,6.67,11.89
+Chondracanthus exasperatus,Chondracanthus exasperatus,372551,11.360357142857143,12.63,6.64,12.63,9.74,11.43
+Chthamalus dalli,Chthamalus dalli,423276,10.073450704225353,17.34,3.87,12.66,8.17,9.69
+Codium fragile,Codium fragile,145086,14.72562638056169,28.95,-1.47,19.82,9.78,14.87
+Corallina vancouveriensis,Corallina vancouveriensis,494902,11.028365019011407,27.42,6.54,12.63,6.63,11.54
+Egregia menziesii,Egregia menziesii,372502,14.52380530496836,17.7,8.51,17.32,12.7,14.34
+Endocladia muricata,Endocladia muricata,372566,12.419263959390863,27.42,6.57,16.55,8.51,12.7
+Halosaccion glandiforme,Halosaccion glandiforme,372579,8.276760299625469,13.62,6.57,11.59,6.59,7.67
+Hedophyllum sessile,Hedophyllum sessile,496237,9.429417475728155,12.61,6.54,11.73,6.59,9.85
+Laminaria setchellii,Laminaria setchellii,240748,13.44282420081995,16.64,6.57,15.76,12.7,12.92
+Leathesia marina,Leathesia marina,494940,11.529714645404951,28.15,4.5,18.62,6.7725,11.04
+Mastocarpus papillatus,Mastocarpus papillatus,163258,9.105738161559888,28.75,6.54,11.54,6.64,9.2
+Mazzaella splendens,Mazzaella splendens,372601,12.424501992031873,12.63,6.64,12.63,9.87,12.63
+Membranipora membranacea,Membranipora membranacea,111411,11.114915872358061,28.59,7.22,12.9,8.74,10.62
+Microcladia borealis,Herpochondria borealis,1735073,10.913559322033898,17.49,6.54,13.3,6.64,11.46
+Mytilus californianus,Mytilus californianus,367837,13.526522336769759,28.87,8.2,17.49,10.86,12.91
+Nemalion vermiculare,Nemalion vermiculare,372115,17.26251879699248,24.74,11.48,18.55,14.64,17.36
+Neorhodomela larix,Neorhodomela larix,372616,10.876477462437396,23.38,6.52,13.73,7.67,11.44
+Odonthalia floccosa,Odonthalia floccosa,372621,8.44481832543444,17.41,5.4,12.617999999999999,6.57,7.88
+Ophlitaspongia pennata,Clathria (Microciona) pennata,167672,12.045700575815738,19.53,6.59,15.52,9.86,11.55
+Pollicipes polymerus,Pollicipes polymerus,535329,13.645235668789809,18.29,8.24,17.49,10.6,13.3
+Sargassum muticum,Sargassum muticum,494791,13.630613124700623,25.56,4.5,18.108999999999998,10.2,12.81
+Schizoporella unicornis,Schizoporella unicornis,111538,18.24375652173913,28.87,9.84,26.13,10.36,18.43
+Scytosiphon lomentaria,Scytosiphon lomentaria,145869,12.982770762506071,28.71,-1.47,19.81,7.6625000000000005,11.41
+Semibalanus cariosus,Semibalanus cariosus,594746,10.175788964181994,17.56,3.25,14.423999999999968,6.59,10.86
+Ulva intestinalis,Ulva intestinalis,234471,10.999526936776492,29.34,-1.61,18.92250000000002,8.21,10.16
+Ulva lactuca,Ulva lactuca,145984,13.688735696567177,29.22,-1.61,26.79,8.6,12.67
