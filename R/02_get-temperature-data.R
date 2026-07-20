@@ -37,8 +37,10 @@ info <- info(datasetid = "erdHadISST")
 
 ## download the data in a specific geographic location for a specific time period
 ## since our first site was sampled in 1993 and our last site was sampled in 2017, let's get data for between these years
+## EDIT: let's get data up to present day to be relevant to this summer's sampling
+## (actually, erdHadISST only goes until end of 2025, so until then.)
 time_series <- griddap(info,
-                       time = c("1993-01-01", "2018-12-31"), ## choose the times you want data between
+                       time = c("1993-01-01", "2025-12-16"), ## choose the times you want data between
                        latitude = c(min(site$Latitude), max(site$Latitude)), ## choose the maximum and minimum lat and lon you want data for
                        longitude = c(min(site$Longitude), max(site$Longitude)),
                        url = "https://upwell.pfeg.noaa.gov/erddap")
